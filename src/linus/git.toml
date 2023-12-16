@@ -1,0 +1,38 @@
+[i]
+url = "https://www.youtube.com/watch?v=4XpnKHJAok8"
+
+[o.git-poc-took-2-weeks]
+start = "12:15"
+end = "12:23"
+
+[o.distribution-is-not-what-you-think]
+start = "12:25"
+end = "14:50"
+
+[o.allow-people-to-be-themselves-and-work-with-who-they-like]
+start = "16:00"
+end = "18:00"
+
+[o.strange-idea-of-commit-access]
+start = "18:10"
+end = "21:15"
+
+[o.break-master-and-commit-often-bc-strict-rules-bloat-commits-and-break-development]
+start = "23:07"
+end = "23:52"
+
+[o.branches-are-not-distributed-but-local-development-is-distributed]
+start = "24:35"
+end = "26:28"
+
+[o.merge-by-a-network-of-trust]
+start = "27:00"
+end = "30:59"
+
+[o.human-nature-as-process]
+start = "30:59"
+end = "31:43"
+
+[o.code-review-doesnt-scale-but-trust-does-]
+start = "34:53"
+end = "37:28"

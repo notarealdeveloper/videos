@@ -1,0 +1,14 @@
+[i]
+url = "https://youtu.be/7SofmXIYvGM?si=Ehpq2s_fo8i8bqMZ"
+
+[o.make-install-not-working-on-a-distro-is-enough-to-make-him-not-interested]
+start = "2:45"
+end = "3:16"
+
+[o.the-only-rule-in-the-kernel-is-dont-break-userspace--dont-do-crazy-shit-is-a-guideline]
+start = "8:37"
+end = "10:14"
+
+[o.make-gcc-and-bash]
+start = "22:06"
+end = "22:42"
